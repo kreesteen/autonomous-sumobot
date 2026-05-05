@@ -1,5 +1,13 @@
 # Autonomous Sumobot – Arduino Robotics Competition
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4bf4b6a0-1e34-4247-b4bc-b45c3e4e0b55" height="250" />
+  <img src="https://github.com/user-attachments/assets/6033bd5d-2038-4195-90b1-81573d5dc97d" height="250" />
+  <img src="https://github.com/user-attachments/assets/f71f6928-9bdf-462c-8186-7073631e7c85" height="250" />
+</p>
+
+**[Watch the robot in competition](https://youtu.be/aZ-ZAUZNrYw)**
+
 ## Overview
 This project is an autonomous sumobot built using an Arduino-based platform for a competitive robotics tournament. The robot detects opponents using ultrasonic sensing and was originally designed with IR-based border detection for ring safety.
 
